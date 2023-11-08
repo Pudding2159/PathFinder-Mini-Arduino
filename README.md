@@ -1,5 +1,6 @@
 # PathFinder-Mini-Arduino
 
+![Robot](photo_Project.jpg)
 
 ## Description:
 
